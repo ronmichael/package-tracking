@@ -1,0 +1,5 @@
+z:\data\code\package-tracking\package-tracking\bin\Debug\package-tracking.dll
+z:\data\code\package-tracking\package-tracking\bin\Debug\package-tracking.pdb
+z:\data\code\package-tracking\package-tracking\obj\Debug\package-tracking.csprojResolveAssemblyReference.cache
+z:\data\code\package-tracking\package-tracking\obj\Debug\package-tracking.dll
+z:\data\code\package-tracking\package-tracking\obj\Debug\package-tracking.pdb
